@@ -1,0 +1,92 @@
+site_name: Naresh Kumar Devulapally
+nav:
+  - About Me:
+      - 'About Me': index.md
+      # - 'Website Checklist': checklist.md
+      # - 'About Me': about.md
+
+  # - Paper Implementations:
+  #     - 'Under Construction': r_implementations/attention-is-all-you-need.md
+
+  # - Paper Summaries:
+  #     - 'Under Construction': r_summary/attention.md
+
+  - Conference Papers:
+      - 'ACM Multimedia 2023': conferences/mmfp3687-anand.md
+      # - 'Solving Monty Hall': blog/monty-hall.md
+
+theme:
+  name: material
+  font:
+    text: Andika
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.prune
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+    - content.code.copy
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+        # primary: teal
+        # accent: purple
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        # primary: teal
+        # accent: purple
+  language: en
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  - glightbox
+  - plotly
+  - drawio_file
+
+repo_url: https://github.com/EssentialAI/essentialai.github.io
+repo_name: EssentialAI
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - attr_list
+  - md_in_html
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+  - pymdownx.superfences:
+      custom_fences:
+        - name: plotly
+          class: mkdocs-plotly
+          format: !!python/name:mkdocs_plotly_plugin.fences.fence_plotly
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
