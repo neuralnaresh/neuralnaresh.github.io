@@ -2,18 +2,10 @@ site_name: Naresh Kumar Devulapally
 nav:
   - About Me:
       - 'About Me': index.md
-      # - 'Website Checklist': checklist.md
-      # - 'About Me': about.md
-
-  # - Paper Implementations:
-  #     - 'Under Construction': r_implementations/attention-is-all-you-need.md
-
-  # - Paper Summaries:
-  #     - 'Under Construction': r_summary/attention.md
 
   - Conference Papers:
       - 'ACM Multimedia 2023': conferences/mmfp3687-anand.md
-      # - 'Solving Monty Hall': blog/monty-hall.md
+      - 'Big Multimedia 2023': conferences/mmfp3687-anand.md
 
 theme:
   name: material
@@ -59,8 +51,8 @@ plugins:
   - plotly
   - drawio_file
 
-repo_url: https://github.com/EssentialAI/essentialai.github.io
-repo_name: EssentialAI
+repo_url: https://github.com/devulapa/devulapa.github.io
+repo_name: devulapa
 
 markdown_extensions:
   - pymdownx.highlight:

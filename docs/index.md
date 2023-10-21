@@ -14,6 +14,7 @@
 
     **Fall 2023**:
 
+    - **<u>One Paper accepted at BigMM 2023</u>**.
     - M.S. Thesis Candidate co-advised by Prof. [Sreyasee Das Bhattacharjee](https://cse.buffalo.edu/~sreyasee/) and Prof. [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/).
     - Graduate Teaching Assistant @ (CSE 574) Machine Learning course at UB.
 
