@@ -5,7 +5,7 @@ nav:
 
   - Conference Papers:
       - 'ACM Multimedia 2023': conferences/mmfp3687-anand.md
-      - 'Big Multimedia 2023': conferences/mmfp3687-anand.md
+      # - 'Big Multimedia 2023': conferences/mmfp3687-anand.md
 
 theme:
   name: material
