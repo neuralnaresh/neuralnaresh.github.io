@@ -7,7 +7,6 @@ nav:
       - 'ACM Multimedia 2023': conferences/mmfp3687-anand.md
       # - 'Big Multimedia 2023': conferences/mmfp3687-anand.md
 
-
 plugins:
   - search
   - glightbox
