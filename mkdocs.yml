@@ -7,6 +7,13 @@ nav:
       - 'ACM Multimedia 2023': conferences/mmfp3687-anand.md
       # - 'Big Multimedia 2023': conferences/mmfp3687-anand.md
 
+
+plugins:
+  - search
+  - glightbox
+  - plotly
+  - drawio_file
+  
 theme:
   name: material
   font:
@@ -44,12 +51,6 @@ theme:
   language: en
   icon:
     repo: fontawesome/brands/github
-
-plugins:
-  - search
-  - glightbox
-  - plotly
-  - drawio_file
 
 repo_url: https://github.com/devulapa/devulapa.github.io
 repo_name: devulapa
