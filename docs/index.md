@@ -67,7 +67,7 @@ I am an MS Thesis candidate co-advised by <a href="https://cse.buffalo.edu/~jsyu
 
 !!! info "[Privacy-preserving Multi-modal Attentive Learning framework for real-time emotion tracking in conversations.](conferences/mmfp3687-anand.md)"
     <figure markdown="1" style="margin:0 auto; text-align: center;">
-    ![Image title](images/conferences/primal.png){ width="600" }
+    ![Image title](images/conferences/primal.PNG){ width="600" }
     </figure>
     
     <center>[PDF](https://github.com/devulapa/devulapa.github.io/blob/main/docs/documents/primal.pdf) | [Code](https://github.com/devulapa/multimodal-emotion-recognition) | [Poster]() | [Web Page](conferences/mmfp3687-anand.md)</center>
