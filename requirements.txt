@@ -1,0 +1,5 @@
+mkdocs-material
+mkdocs
+mkdocs-glightbox
+Mkdocs-drawio-file
+mkdocs_plotly_plugin

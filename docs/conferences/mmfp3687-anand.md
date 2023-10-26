@@ -1,9 +1,13 @@
 # Multi-label Emotion Analysis in Conversation via Multimodal Knowledge Distillation
 
 <figure markdown="1" style="margin:0 auto; text-align: center;">
-![Image title](../images/site-images/acm-prop.png){ width="700" }
-<figcaption>Proposed Architecture of the SeMuL-PCD model.</figcaption>
+![Image title](../images/conferences/acmmm.png){ width="700" }
+<!-- <figcaption>Proposed Architecture of the SeMuL-PCD model.</figcaption> -->
 </figure>
+
+<p style="text-align: center; margin-top:-10px;">Proposed Architecture of the SeMuL-PCD model.</p>
+
+<center>[PDF](https://cse.buffalo.edu/~jsyuan/papers/2023/mmfp3687-anand.pdf) | [Code](https://github.com/devulapa/multimodal-emotion-recognition) | [Poster]()</center>
 
 Evaluating speaker emotion in conversations is crucial for various applications requiring human-computer interaction. However, co-occurrences of multiple emotional states (e.g. ‘anger’ and ‘frustration’ may occur together or one may influence the occurrence of the other) and their dynamic evolution may vary dramatically
 due to the speaker’s internal (e.g., influence of their personalized socio-cultural-educational and demographic backgrounds) and external contexts. Thus far, the previous focus has been on evaluating only the dominant emotion observed in a speaker at a given time, which is susceptible to producing misleading classification decisions
