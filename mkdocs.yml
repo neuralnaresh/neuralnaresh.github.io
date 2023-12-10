@@ -51,8 +51,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-repo_url: https://github.com/devulapa/devulapa.github.io
-repo_name: devulapa
+repo_url: https://github.com/devulapa/neuralnaresh.github.io
+repo_name: neuralnaresh
 
 markdown_extensions:
   - pymdownx.highlight:
