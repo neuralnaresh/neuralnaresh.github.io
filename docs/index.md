@@ -6,9 +6,9 @@
 
 <p style="text-align: center; margin-top:-10px; font-size: 22px;"><b>Naresh Kumar Devulapally</b></p>
 
-<p style="text-align: center;margin-top:-25px;"><a href="https://scholar.google.com/citations?hl=en&user=20vLrzMAAAAJ" target = "_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/nareshdevulapally" target = "_blank">LinkedIn</a> | <a href="https://github.com/devulapa" target = "_blank">Github</a> | <a href="https://github.com/devulapa/devulapa.github.io/blob/main/docs/documents/Research-CV.pdf" target = "_blank">CV</a></p>
+<p style="text-align: center; margin-top:-25px;"><a href="https://scholar.google.com/citations?hl=en&user=20vLrzMAAAAJ" target = "_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/nareshdevulapally" target = "_blank">LinkedIn</a> | <a href="https://github.com/neuralnaresh" target = "_blank">Github</a> | <a href="https://github.com/devulapa/devulapa.github.io/blob/main/docs/documents/Research-CV.pdf" target = "_blank">CV</a></p>
 
-I am an MS Thesis candidate co-advised by <a href="https://cse.buffalo.edu/~jsyuan/" target = "_blank">Dr. Junsong Yuan</a> and <a href="https://cse.buffalo.edu/~sreyasee/" target = "_blank">Dr. Sreyasee Das Bhattacharjee</a> at The Visual Computing Lab in the Department of Computer Science at University at Buffalo, SUNY. **My Research is focused on Computer Vision and Multimodal AI (Vision-Language models)** with applications towards Emotion Recognition, Crowd Analytics, Transformer based Object Understanding, and Emotion Generation. My recent (first-author) works are accepted at ACM Multimedia 2023 (∼25% acceptance rate) and BigMM 2023.
+I am an MS Thesis candidate co-advised by <a href="https://cse.buffalo.edu/~jsyuan/" target = "_blank">Dr. Junsong Yuan</a> and <a href="https://cse.buffalo.edu/~sreyasee/" target = "_blank">Dr. Sreyasee Das Bhattacharjee</a> at The Visual Computing Lab in the Department of Computer Science at the University at Buffalo, SUNY. **My Research is focused on Computer Vision and Multimodal AI (Vision-Language models)** with applications towards Emotion Recognition, Crowd Analytics, Transformer-based Object Understanding, and Emotion Generation. My recent (first-author) works are accepted at ACM Multimedia 2023 (∼25% acceptance rate) and BigMM 2023.
 
 <hr/>
 
@@ -28,12 +28,12 @@ I am an MS Thesis candidate co-advised by <a href="https://cse.buffalo.edu/~jsyu
     **Spring 2023**:
 
     - <u>Submitted two papers to ACM Multimedia 2023</u>.
-    - Graduate Teaching Asssistant @ (CSE 560) Data Models and Query Languages course at UB.
+    - Graduate Teaching Assistant @ (CSE 560) Data Models and Query Languages course at UB.
 
     **Fall 2022**:
 
     - Supervised Researcher under the guidance of Professor Sreyasee Das Bhattacharjee and Professor Junsong Yuan. <u>Submitted one paper to IJCAI 2023.</u>
-    - Graduate Teaching Asssistant @ (CSE 555) Introduction to Pattern Recognition at UB.
+    - Graduate Teaching Assistant @ (CSE 555) Introduction to Pattern Recognition at UB.
 
 ## Research Projects
 
@@ -62,7 +62,7 @@ I am an MS Thesis candidate co-advised by <a href="https://cse.buffalo.edu/~jsyu
     <center>[PDF](https://github.com/devulapa/devulapa.github.io/blob/main/docs/documents/AMUSE.pdf) | [Code](https://github.com/devulapa/multimodal-emotion-recognition) | [Poster]() | [Web Page](conferences/mmfp3687-anand.md)</center>
 
     <p style="margin-top: -10px;">
-    We propose a Multimodal Attention Network (MAN) that captures cross-modal interactions at various levels of spatial abstraction by jointly learning its interactive bunch of mode- specific Peripheral and Central networks. The proposed MAN “injects” cross-modal attention via its Peripheral key-value pairs within each layer of a mode-specific Central query network. The resulting cross-attended mode-specific descriptors are then com- bined using an Adaptive Fusion (AF) technique that enables the model to integrate the  discriminative and complementary mode- specific data patterns within an instance-specific multimodal descriptor.
+    We propose a Multimodal Attention Network (MAN) that captures cross-modal interactions at various levels of spatial abstraction by jointly learning its interactive bunch of mode-specific Peripheral and Central networks. The proposed MAN “injects” cross-modal attention via its Peripheral key-value pairs within each layer of a mode-specific Central query network. The resulting cross-attended mode-specific descriptors are then combined using an Adaptive Fusion (AF) technique that enables the model to integrate the  discriminative and complementary mode-specific data patterns within an instance-specific multimodal descriptor.
     </p>
 
 !!! info "[Privacy-preserving Multi-modal Attentive Learning framework for real-time emotion tracking in conversations.](conferences/mmfp3687-anand.md)"
@@ -73,9 +73,9 @@ I am an MS Thesis candidate co-advised by <a href="https://cse.buffalo.edu/~jsyu
     <center>[PDF](https://github.com/devulapa/devulapa.github.io/blob/main/docs/documents/primal.pdf) | [Code](https://github.com/devulapa/multimodal-emotion-recognition) | [Poster]() | [Web Page](conferences/mmfp3687-anand.md)</center>
 
     <p style="margin-top: -10px;">
-    We propose a PRIvacy-preserving Multimodal Attentive Learning framework (PRIMAL) that derives the person independent normalized facial Action-Unit based features to estimate the participants’ expression and keeps track of their spatio-temporal states and conversation dynamics in context of their surrounding environment to evaluate the speaker emotion. By designing a novel contrastive loss based optimization framework to capture the self- and cross-modal correlation within a learned descriptor, PRIMAL exhibits promise in accurately identifying the emotion state of an individual speaker in group conversations.
+    We propose a PRIvacy-preserving Multimodal Attentive Learning framework (PRIMAL) that derives the person-independent normalized facial Action-Unit based features to estimate the participants’ expression and keep track of their spatiotemporal states and conversation dynamics in the context of their surrounding environment to evaluate the speaker's emotion. By designing a novel contrastive loss-based optimization framework to capture the self- and cross-modal correlation within a learned descriptor, PRIMAL exhibits promise in accurately identifying the emotional state of an individual speaker in group conversations.
     </p>
 ---
 ## Academic Projects
 
-Projects done as a part of the courses at UB.
+Projects are done as a part of the courses at UB.
