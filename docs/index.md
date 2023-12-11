@@ -6,7 +6,7 @@
 
 <p style="text-align: center; margin-top:-10px; font-size: 22px;"><b>Naresh Kumar Devulapally</b></p>
 
-<p style="text-align: center;margin-top:-25px;"><a href="[https://www.linkedin.com/in/nareshdevulapally](https://scholar.google.com/citations?hl=en&user=20vLrzMAAAAJ)" target = "_blank">Google Scholar</a> | <p style="text-align: center;margin-top:-25px;"><a href="https://www.linkedin.com/in/nareshdevulapally" target = "_blank">LinkedIn</a> | <a href="https://github.com/devulapa" target = "_blank">Github</a> | <a href="https://github.com/devulapa/devulapa.github.io/blob/main/docs/documents/Research-CV.pdf" target = "_blank">CV</a></p>
+<p style="text-align: center;margin-top:-25px;"><a href="https://scholar.google.com/citations?hl=en&user=20vLrzMAAAAJ" target = "_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/nareshdevulapally" target = "_blank">LinkedIn</a> | <a href="https://github.com/devulapa" target = "_blank">Github</a> | <a href="https://github.com/devulapa/devulapa.github.io/blob/main/docs/documents/Research-CV.pdf" target = "_blank">CV</a></p>
 
 I am an MS Thesis candidate co-advised by <a href="https://cse.buffalo.edu/~jsyuan/" target = "_blank">Dr. Junsong Yuan</a> and <a href="https://cse.buffalo.edu/~sreyasee/" target = "_blank">Dr. Sreyasee Das Bhattacharjee</a> at The Visual Computing Lab in the Department of Computer Science at University at Buffalo, SUNY. **My Research is focused on Computer Vision and Multimodal AI (Vision-Language models)** with applications towards Emotion Recognition, Crowd Analytics, Transformer based Object Understanding, and Emotion Generation. My recent (first-author) works are accepted at ACM Multimedia 2023 (∼25% acceptance rate) and BigMM 2023.
 
