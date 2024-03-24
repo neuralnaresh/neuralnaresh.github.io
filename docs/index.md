@@ -8,7 +8,7 @@
 
 <p style="text-align: center; margin-top:-25px;"><a href="https://scholar.google.com/citations?hl=en&user=20vLrzMAAAAJ" target = "_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/nareshdevulapally" target = "_blank">LinkedIn</a> | <a href="https://github.com/neuralnaresh" target = "_blank">Github</a> | <a href="https://github.com/neuralnaresh/neuralnaresh.github.io/blob/main/docs/documents/Research-CV.pdf" target = "_blank">CV</a></p>
 
-I am a Computer Science Ph.D. candidate with research interests in **Multimodal Machine Learning, Representation Learning, and Graph Embeddings.** My research advised by <a href="https://cse.buffalo.edu/~jsyuan/" target = "_blank">Dr. Junsong Yuan</a> and <a href="https://cse.buffalo.edu/~sreyasee/" target = "_blank">Dr. Sreyasee Das Bhattacharjee</a> at The Visual Computing Lab in the Department of Computer Science at the University at Buffalo, SUNY. My recent (first-author) works on Multimodal Machine Learning are published at ACM Multimedia 2023 (∼25% acceptance rate), ICME 2024, BigMM 2023 and so on.
+I am a Computer Science Ph.D. candidate **(Chair's Fellowship)** with research interests in **Multimodal Machine Learning, Representation Learning, and Graph Embeddings.** My research advised by <a href="https://cse.buffalo.edu/~jsyuan/" target = "_blank">Dr. Junsong Yuan</a> and <a href="https://cse.buffalo.edu/~sreyasee/" target = "_blank">Dr. Sreyasee Das Bhattacharjee</a> at The Visual Computing Lab in the Department of Computer Science at the University at Buffalo, SUNY. My recent (first-author) works on Multimodal Machine Learning are published at ACM Multimedia 2023 (∼25% acceptance rate), ICME 2024, BigMM 2023 and so on.
 
 <hr/>
 
